@@ -15,3 +15,5 @@ git branch -d rama2 = elimina la rama2 (no puede eliminar la rama donde esté pa
 git merge RamaDiego = para unir los cambios realizados en una rama a la rama master o main git merge con el nombre de la rama que queremos fusionar
 
 git branch -r = para ver todas las ramas remotas
+
+git diff main rama1 = para ver las diferencias entre ramas
